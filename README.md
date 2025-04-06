@@ -1,8 +1,8 @@
 # Sentiment-Analysis-Website
 
+## Run the Application in visual studio code
 
-Train a Naive Bayes classifier on movie reviews data
-
-Analyze the sentiment of a given text
-
-Return the sentiment along with an emoji representing the sentiment
+1. Clone the Repository (VS code).
+2. Set Up Virtual Environment.
+3. Install Dependencies (Install python packages).
+4. Start the script (python run.py).
